@@ -1,8 +1,8 @@
-var ZombieFactory = artifacts.require("./ZombieFactory.sol");
-var ZombieFeeding = artifacts.require("./ZombieFeeding.sol");
-var ZombieHelper = artifacts.require("./ZombieHelper.sol");
-var ZombieAttack = artifacts.require("./ZombieAttack.sol");
-var ZombieOwnership = artifacts.require("./ZombieOwnership.sol");
+var ZombieFactory = artifacts.require("./zombieFactory.sol");
+var ZombieFeeding = artifacts.require("./zombieFeeding.sol");
+var ZombieHelper = artifacts.require("./zombieHelper.sol");
+var ZombieAttack = artifacts.require("./zombieAttack.sol");
+var ZombieOwnership = artifacts.require("./zombieOwnership.sol");
 
 module.exports = function(deployer) {
   deployer.deploy(ZombieFactory);

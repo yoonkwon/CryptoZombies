@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nigeon/CryptoZombies.git"
+    "url": "git+https://github.com/yoonkwon/CryptoZombies.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nigeon/CryptoZombies/issues"
+    "url": "https://github.com/yoonkwon/CryptoZombies/issues"
   },
-  "homepage": "https://github.com/nigeon/CryptoZombies#readme"
+  "homepage": "https://github.com/yoonkwon/CryptoZombies#readme"
 }
